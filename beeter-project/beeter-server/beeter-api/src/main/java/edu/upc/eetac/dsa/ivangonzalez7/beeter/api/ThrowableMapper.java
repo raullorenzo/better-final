@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.rgonzalez.beeter.api;
+package edu.upc.eetac.dsa.ivangonzalez7.beeter.api;
 
 import javax.ws.rs.WebApplicationException;
 import javax.ws.rs.core.Response;

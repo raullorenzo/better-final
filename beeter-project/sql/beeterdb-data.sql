@@ -101,4 +101,4 @@ select sleep(1);insert into stings (username, subject, content) values ('alicia'
 select sleep(1);insert into stings (username, subject, content) values ('blas', 'Mensaje absurdo#96', 'Fermín Cacho parece buen muchacho.');
 select sleep(1);insert into stings (username, subject, content) values ('blas', 'Mensaje absurdo#97', 'Fermín Cacho parece buen muchacho.');
 select sleep(1);insert into stings (username, subject, content) values ('alicia', 'Mensaje absurdo#98', 'Fermín Cacho parece buen muchacho.');
-select sleep(1);insert into stings (username, subject, content) values ('alicia', 'Mensaje absurdo#99', 'Fermín Cacho parece buen muchacho.');
+select sleep(1);insert into  stings (username, subject, content) values ('alicia', 'Mensaje absurdo#99', 'Fermín Cacho parece buen muchacho.');

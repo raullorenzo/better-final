@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.mfilali.beeter.api;
+package edu.upc.eetac.dsa.rgonzalez.beeter.api;
 
 import javax.naming.Context;
 import javax.naming.InitialContext;

@@ -15,4 +15,4 @@ create table user_roles (
 	rolename 			varchar(20) not null,
 	foreign key(username) references users(username) on delete cascade,
 	primary key (username, rolename)
-);
+); 

@@ -1,4 +1,4 @@
-package edu.upc.eetac.dsa.ivangonzalez7.beeter.api;
+package edu.upc.eetac.dsa.rlorenzo.beeter.api;
 
 import org.glassfish.jersey.linking.DeclarativeLinkingFeature;
 import org.glassfish.jersey.server.ResourceConfig;

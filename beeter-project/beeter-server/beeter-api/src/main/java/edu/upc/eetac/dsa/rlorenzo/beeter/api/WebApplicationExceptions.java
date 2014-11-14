@@ -1,10 +1,10 @@
-package edu.upc.eetac.dsa.ivangonzalez7.beeter.api;
+package edu.upc.eetac.dsa.rlorenzo.beeter.api;
 import javax.ws.rs.WebApplicationException;
 import javax.ws.rs.core.Response;
 import javax.ws.rs.ext.ExceptionMapper;
 import javax.ws.rs.ext.Provider;
  
-import edu.upc.eetac.dsa.ivangonzalez7.beeter.api.model.BeeterError;
+import edu.upc.eetac.dsa.rlorenzo.beeter.api.model.BeeterError;
  
 @Provider
 public class WebApplicationExceptions implements

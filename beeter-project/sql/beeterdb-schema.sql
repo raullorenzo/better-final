@@ -15,5 +15,5 @@ create table stings (
 	subject				varchar(100) not null,
 	content				varchar(500) not null,
 	last_modified			timestamp,
-	foreign key(username) references users(username)
+	foreign key(username) references users(username) 
 );
